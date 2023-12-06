@@ -1,7 +1,7 @@
 # ProyectoRobotica
 Proyecto robótica 2023-2s
 
-# Integrantes del grupo
+## Integrantes del grupo
 * Giovanny Obregon
 * Nicolas Carbajal
 * Andres Hernandez
