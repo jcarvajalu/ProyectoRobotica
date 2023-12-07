@@ -1,6 +1,7 @@
 # ProyectoRobotica
 Proyecto robótica 2023-2s
 
+
 ## Integrantes del grupo
 * Yuli Alpala
 * Sara Cardona
@@ -9,7 +10,9 @@ Proyecto robótica 2023-2s
 * Andrés Hernández
 * Giovanny Obregón
 
+
 ## Solución planteada
+
 Para el desarrollo del proyecto se comenzó definiendo las geometrías a manipular, para esto se buscaron objetos que cumplieran las siguentes caracteristica: Cajas, tarros y tubos de pasta de dientes, por lo cual se seleccionaron los siguentes objetos a manipular.
 
 ![Objetos a manipular](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9cb21aaa-551a-4a4a-a6d5-93aaa27773c3)
@@ -26,7 +29,7 @@ Con las consideraciones de las geometrías a manipular y los elementos diponible
 
 Por lo tanto se planearon la diferentes trayectorias que el robot debería llevar a cabo con la repisa y la banda transportadora.
 
- ![ModeloRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ee8c0696-da70-4ff4-8ec8-ab55996a6f39)
+![ModeloRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ee8c0696-da70-4ff4-8ec8-ab55996a6f39)
 
 Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repida y definir su posición en la zona de alistamiento.
 
@@ -62,11 +65,13 @@ Al usar el gripper prestado por el otro grupo las piezas fueron:
 * Cilindro de 2 dedos
 * Electroválvula 5/2
 
+
 ## Diagrama de flujo de las acciones del robot
 
 Teniendo en cuenta que la solución planteada consistía en indicar incialmente, a través de la interfaz implementada en el flexpendant, la ubicación del objeto a tomar en la repisa, y luego indicar la posición en que se quería depositar el objeto en la banda transportadora, se plantea el siguiente diagrama de flujo de las acciones que realizó el robot.
 
 ![Diagrama Flujo](https://github.com/jcarvajalu/ProyectoRobotica/assets/80609467/191a6618-c012-4257-aa5c-2247ca20e095)
+
 
 ## Interfaz
 
@@ -112,7 +117,7 @@ Por último, se hizo un diseño de un dedo adaptable el cual pudiera deformarse 
 
 Esta pieza se pensó para ser impresa en TPU con el fin que fuera flexible y tuviera el soporte suficiente.
 
-Finalmente, acá se puede ver el diseño montado en el cilindro en el modelo y los dedos impresos.
+Finalmente, acá se puede ver el diseño montado en el cilindro, el modelo y los dedos impresos.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/00e3aecb-c5ff-467c-9b94-97d1e82f9d80)
 
@@ -122,10 +127,14 @@ Al hacer el montaje en el cilindro se evidenció un error en la impresion del ad
 
 Adicionalmente se detectó un problema en el gripper, pues al ser el acabado superficial que deja el TPU en la pieza muy liso, los elementos tendían a resbalarse fácilmente. Para solucionar esto se propuso usar una lija de grano fino (lija 220) junto con cinta doble faz para que los elementos no se resbalaran de los dedos del gripper.
 
+
 ## Modelo en RobotStudio
+
 
 ## Código en Rapid
 
+
 ## Comparación de tiempo de alistamiento y operación
+
 
 ## Video de presentación
