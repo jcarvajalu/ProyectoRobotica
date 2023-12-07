@@ -2,47 +2,43 @@
 Proyecto robótica 2023-2s
 
 ## Integrantes del grupo
-* Giovanny Obregón
-* Nicolás Carvajal
-* Andrés Hernández
-* Juan Sebastian Daleman
-* Sara Cardona
 * Yuli Alpala
+* Sara Cardona
+* Nicolás Carvajal
+* Juan Sebastián Daleman
+* Andrés Hernández
+* Giovanny Obregón
 
 ## Solución planteada
-Para el desarrollo del proyecto se comenzo definiendo las geometrias a manipular para esto se buscaron objetos que cumplieran las siguentes caracteristica: Cajas, tarros y tubos de pasta de dientes con los cuales se dejaron los siguentes objetos a manipular.
+Para el desarrollo del proyecto se comenzó definiendo las geometrías a manipular, para esto se buscaron objetos que cumplieran las siguentes caracteristica: Cajas, tarros y tubos de pasta de dientes, por lo cual se seleccionaron los siguentes objetos a manipular.
 
 ![Objetos a manipular](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9cb21aaa-551a-4a4a-a6d5-93aaa27773c3)
 
-Estos objetos se midieron sus diferentes dimenciones para su modelado en CAD obteniendo los siguentes modelos:
+Se midieron las diferentes dimensiones de los objetos seleccionados para su modelado en CAD, obteniendo los siguentes modelos:
 
 [Modelados en CAD](https://github.com/jcarvajalu/ProyectoRobotica/tree/main/Modelado)
 
-Con las concideraciones de las geometrias a manipular y los elementos diponibles en el laboratorio se propuso el diseño de un gripper adaptable de dos dedos.
+Con las consideraciones de las geometrías a manipular y los elementos diponibles en el laboratorio se propuso el diseño de un gripper adaptable de dos dedos.
 
 ![GripperModelado](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/5a473340-9b60-46fa-82d7-2b01571fbdb4)
  
- Este gripper se planeo para funcionar con el cilindro de 3 dedos.
+ Este gripper se planeó para funcionar con el cilindro de 3 dedos.
 
- Con esto se planearon la diferentes trayectorias que el robot deberia hacer con la repisa y la banda transportadora
+Por lo tanto se planearon la diferentes trayectorias que el robot debería llevar a cabo con la repisa y la banda transportadora.
 
  ![ModeloRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ee8c0696-da70-4ff4-8ec8-ab55996a6f39)
 
+Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repida y definir su posición en la zona de alistamiento.
 
- una vez se tuvieron las rutinas planeadas se hizo el desarrollo de la interfaz grafica que se puede usar en el flexpendant
-
- ![interfazRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/0383ae40-93fd-48fe-a38d-67d12c906f77)
-
-Para poder manipular las posiciones de los objetos en donde estban en la repisa y su posion en la zona de alistamiento
-
+![interfazRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/0383ae40-93fd-48fe-a38d-67d12c906f77)
 
 ### Alistamiento del robot
 
-Para el alistamiento se tuvo a la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/) la cual se puso en el area de trabajo del robot y se ubicaron los objetos a manipular en esta como se muestran a continuación.
+Para el alistamiento se tuvo la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y se ubicaron los objetos a manipular en ésta, como se muestran a continuación.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/bf9c5e9e-a5d2-4b8e-ade9-5a2ccb729c2b)
 
-Asi mismo se hizo una calibracion de la ubicación de la estanteria con respto al robot para que el gripper pudiera alcanzar los objetos.
+Así mismo se hizo una calibracion de la ubicación de la estantería con respto al robot para que el gripper pudiera alcanzar los objetos.
 
 ### Herramientas necesarias
 
@@ -55,18 +51,22 @@ Para alistar el gripper en el robot y su utilización se necesitaron:
 
 De las piezas utilizadas fueron:
 * 2 dedos de gripper
-* 2 Soportes de gripper
-* 1 Adaptador para usar el cilindro de 3 dedos como de 2
+* 2 soportes de gripper
+* 1 adaptador para usar el cilindro de 3 dedos como de 2
 * Cilindro de 3 dedos
-* Base de dapataacion para Robot ABB y cilindro de 3 dedos
-* Electro valvula 5/2
+* Base de dapatación para Robot ABB y cilindro de 3 dedos
+* Electroválvula 5/2
 
 Al usar el gripper prestado por el otro grupo las piezas fueron:
 * Grripper adaptable de otro grupo
 * Cilindro de 2 dedos
-* Electro valvula 5/2
+* Electroválvula 5/2
 
 ## Diagrama de flujo de las acciones del robot
+
+Teniendo en cuenta que la solución planteada consistía en indicar incialmente, a través de la interfaz implementada en el flexpendant, la ubicación del objeto a tomar en la repisa, y luego indicar la posición en que se quería depositar el objeto en la banda transportadora, se plantea el siguiente diagrama de flujo de las acciones que realizó el robot.
+
+IMAGEN
 
 ## Interfaz
 
