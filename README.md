@@ -130,7 +130,12 @@ Finalmente, a continuación se pueden ver el diseño del modelo y los dedos impr
 
 ![Imagen de WhatsApp 2023-12-06 a las 20 51 54_9dfbd0f4](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/219448d5-4aec-4dbe-9a07-8eafdb723621)
 
-Al hacer el montaje en el cilindro se evidenció un error en la impresion del adaptador, por esta razón no fue posible implementar los dedos en el cilindro de 3 dedos. En consecuencia, se planteó como solución usar uno de los cilindros de dos dedos que estaban en el laboratorio, pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link). Es así como para terminar el desarrollo del proyecto se pidió un gripper prestado a otro grupo.
+Al hacer el montaje en el cilindro se evidenció un error en la impresion del adaptador, por esta razón no fue posible implementar los dedos en el cilindro de 3 dedos. En consecuencia, se planteó como solución usar uno de los cilindros de dos dedos que estaban en el laboratorio, pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link) . Es así como para terminar el desarrollo del proyecto se pidió un gripper prestado a otro grupo.
+
+
+[Error en el cilindro de dos dedos](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ac96be3d-8c1f-44ab-82fa-3c198b3a7572)
+
+
 
 Adicionalmente se detectó un problema en el gripper, pues al ser el acabado superficial que deja el TPU en la pieza muy liso, los elementos tendían a resbalarse fácilmente. Para solucionar esto se propuso usar una lija de grano fino (lija 220) junto con cinta doble faz para que los elementos no se resbalaran de los dedos del gripper.
 
@@ -181,5 +186,4 @@ La función mov_offset se encarga de llevar a cabo aproximaciones, tomando como 
 La simulación de robotStudio se puede ver en el siguiente video en baja calidad, si quiere verlo en una mayor calidad dirijase a este link https://drive.google.com/drive/folders/1rsiYHvFrMIB10ePP7CXYzUYBzl0OuGI7.
 
 
-https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/74c09434-fd29-4f74-bd98-2425a1764250
-
+[Simulacion en RobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/74c09434-fd29-4f74-bd98-2425a1764250)
