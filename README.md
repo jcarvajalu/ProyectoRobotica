@@ -129,12 +129,50 @@ Adicionalmente se detectó un problema en el gripper, pues al ser el acabado sup
 
 
 ## Modelo en RobotStudio
+En la primera fase del proceso, se procede a la carga de las geometrías de los objetos que serán manipulados en el entorno de Robot Studio. Este procedimiento incluye la importación de la representación geométrica de los objetos a ser movidos, así como la incorporación de la banda transportadora y el armario del cual se extraerán los mencionados objetos.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/ca22cb82-20cd-4672-b29e-4168cf024dbd)
+
+Seguidamente, se efectúa la carga de la herramienta, la cual se posiciona estratégicamente con el punto de control de la herramienta (TCP) ubicado en el centro de las pinzas, tal como se ilustra en la imagen adjunta. Este paso garantiza una correcta alineación y disposición de la herramienta para llevar a cabo las tareas de manipulación con precisión y eficacia.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/52f0fa10-d7c4-44af-b4b7-b9ed3ac8a50e)
+
+En la siguiente etapa, se implementa la física dinámica a cada objeto, transformándolos en componentes inteligentes. En este contexto, el bloque "source" facilita la generación de copias de dichos objetos en posiciones específicas.Para evaluar la proximidad del gripper a los distintos objetos, se emplea el bloque "compare", para reconocer el objeto al cual se va acercar el gripper. Por su parte, el bloque "attacher" se encarga de establecer la conexión entre el objeto y el gripper cuando se activa la señal digital 1, cuando se requiere disolver la conexión entre el objeto y el gripper, entra en juego el bloque "detacher", activado mediante la señal digital 2. Finalmente, para preparar el entorno para una nueva simulación, el bloque "sink" cumple la función de eliminar la copia creada, posibilitando así la reiteración del proceso en un nuevo ciclo. 
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/ba14c8aa-6cf7-4844-b449-03d29745b613)
+
+Se establece la conexión entre el controlador y el componente inteligente que se ha configurado previamente. 
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/764439a4-02e6-4c39-9d35-c158c9639618)
 
 
 ## Código en Rapid
 
 
+Dentro de la función principal (main) del código en RAPID, se implementa un bucle que aguarda la activación de la señal digital 3 para iniciar las operaciones. Una vez recibida la señal, el robot se desplaza a la posición de home para iniciar la ejecución de la función de agarrar y soltar. A continuación, se detallaran dichas funciones:
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/a4b84971-2226-4cd5-99e9-b5a62a6b019f)
+
+En la función de agarre, se emplea una estructura de control tipo "switch" para evaluar la variable asociada a la interfaz. Esta variable indica la posición actual del objeto. Dependiendo de dicho valor, se ejecuta una trayectoria específica de aproximación hacia la ubicación del objeto. Finalizada la acción de agarre, el robot regresa a su posición de home.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/e23bf0ac-f633-46c8-a9ae-2a35836c2e5f)
+En la función de dejar, se examina la variable vinculada a la interfaz de manera similar. Sin embargo, con la distinción de que la aproximación se realiza verticalmente.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/15b49bc6-6d4a-43af-bcae-4a0f26e09d08)
+
+La función mov_offset se encarga de llevar a cabo aproximaciones, tomando como referencia el parámetro ingresado. Esta función presenta la capacidad de activar o desactivar el gripper según sea necesario. Posteriormente, se devuelve la distancia aproximada.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/1742c98e-8c02-4df4-96a6-dd2706fecf0e)
+
+
 ## Comparación de tiempo de alistamiento y operación
 
-
 ## Video de presentación
+
+
+
+La simulación de robotStudio se puede ver en el siguiente video en baja calidad, si quiere verlo en una mayor calidad dirijase a este link https://drive.google.com/drive/folders/1rsiYHvFrMIB10ePP7CXYzUYBzl0OuGI7.
+
+
+https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/74c09434-fd29-4f74-bd98-2425a1764250
+
