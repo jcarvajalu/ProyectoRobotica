@@ -14,7 +14,7 @@ Para el desarrollo del proyecto se comenzo definiendo las geometrias a manipular
 
 ![Objetos a manipular](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9cb21aaa-551a-4a4a-a6d5-93aaa27773c3)
 
-
+[Modelados en CAD](https://github.com/jcarvajalu/ProyectoRobotica/tree/main/Modelado)
 
 ### Alistamiento del robot
 
