@@ -31,7 +31,7 @@ Por lo tanto se planearon la diferentes trayectorias que el robot debería lleva
 
 ![ModeloRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ee8c0696-da70-4ff4-8ec8-ab55996a6f39)
 
-Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repida y definir su posición en la zona de alistamiento.
+Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repisa y definir su posición en la zona de alistamiento (Banda transportadora) donde se dispondra.
 
 ![interfazRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/0383ae40-93fd-48fe-a38d-67d12c906f77)
 
