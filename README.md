@@ -120,7 +120,7 @@ Por ultimo aca podemos ver el diseño montado en el cilindro en el modelo y los 
 
 Al hacer el montaje en el cilindro se tuvo un error en la impresion del adaptador por lo cual no fue posible implementar los dedos en el cilindro de 3 dedos, como una solucion se planteo el usar uno de los cilindros de dos dedos que estan en el laboratorio pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link). Por lo cual para terminar el desarrollo del proyecto se pidio un gripper prestado a otro grupo.
 
-
+Adicionalmente se detecto un problema en el gripper al ser el acabado superficial que deja el TPU en la piesa muy liso los elementos se tienden a rebalar facilmente para solucionar esto se porpone usar una lija de grano fino (lija 220) junto a cinta doble faz para que los elementos no se resbalen de los dedos del gripper. 
 
 ## Modelo en RobotStudio
 
