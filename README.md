@@ -88,7 +88,7 @@ Después de algunas iteraciones en el diseño de la interfaz y teniendo en cuent
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/197acaff-a9a4-49a5-ad88-bff20460e369)
 
-Una vez programadas las rutinas de ejecución para el correcto funcionamiento del proyecto, se llevó a cabo la integración entre éstas la interfaz. Seguidamente, esto se implementó en el flexpendant físico del robot IRB140 de ABB en el LabSIR.
+Una vez programadas las rutinas de ejecución para el correcto funcionamiento del proyecto, se llevó a cabo la integración entre éstas y la interfaz. Seguidamente, esto se implementó en el flexpendant físico del robot IRB140 de ABB en el LabSIR.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/6332d6e0-f9ac-45d8-939f-cded44581922)
 
