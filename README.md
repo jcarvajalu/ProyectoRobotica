@@ -117,7 +117,7 @@ Por último, se hizo un diseño de un dedo adaptable el cual pudiera deformarse 
 
 Esta pieza se pensó para ser impresa en TPU con el fin que fuera flexible y tuviera el soporte suficiente.
 
-Finalmente, acá se puede ver el diseño montado en el cilindro, el modelo y los dedos impresos.
+Finalmente, a continuación se pueden ver el diseño del modelo y los dedos impresos.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/00e3aecb-c5ff-467c-9b94-97d1e82f9d80)
 
