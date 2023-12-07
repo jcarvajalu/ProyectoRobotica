@@ -110,6 +110,16 @@ Por ultimo se hizo un diseño de un dedo adaptable el cual pudiera deformarce pa
 
 [Dedo gripper](https://github.com/jcarvajalu/ProyectoRobotica/tree/main/Gripper/PlanBV2)
 
+Esta pieza se penso para ser impresa en TPU  con el fin que fuera flexible y tubiera el soporte suficiente.
+
+Por ultimo aca podemos ver el diseño montado en el cilindro en el modelo y los dedos impresos
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/00e3aecb-c5ff-467c-9b94-97d1e82f9d80)
+
+![Imagen de WhatsApp 2023-12-06 a las 20 51 54_9dfbd0f4](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/219448d5-4aec-4dbe-9a07-8eafdb723621)
+
+Al hacer el montaje en el cilindro se tuvo un error en la impresion del adaptador por lo cual no fue posible implementar los dedos en el cilindro de 3 dedos, como una solucion se planteo el usar uno de los cilindros de dos dedos que estan en el laboratorio pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link). Por lo cual para terminar el desarrollo del proyecto se pidio un gripper prestado a otro grupo.
+
 
 
 ## Modelo en RobotStudio
