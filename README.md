@@ -88,7 +88,29 @@ Una vez programadas las rutinas de ejecución para el correcto funcionamiento de
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/6332d6e0-f9ac-45d8-939f-cded44581922)
 
 
-## Diseño del grippper
+## Diseño del gripper
+
+Para el gripper se propuso un diseño el cual pudiera adaptar el cilindro de 3 dedos para ser usado como uno de dos para esto se creo la pieza de acople
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/2553c860-753c-4268-b090-20b95e5c0bcf)
+
+[Acople](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/PlanBV2/acople.ipt)
+
+luego se pensaron en unos soportes que pudieran adaptarse a los dedos del gripper facilmente y pudieran atronillarse a los dedos del cilindro
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9df9315d-730f-470d-b489-bd80770309bd)
+
+[Base gripper](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/PlanBV2/Basegripper.ipt)
+
+Estas pizas se hicieron para imprimirse en PLA par que tuvieran fortaleza y soportaran adecuadamente las cargas mecanicas.
+
+Por ultimo se hizo un diseño de un dedo adaptable el cual pudiera deformarce para lograr agarrar las diferentes geometrias propuestas.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/2e5d4b36-d9c6-4200-9105-51ec5305b35e)
+
+[Dedo gripper](https://github.com/jcarvajalu/ProyectoRobotica/tree/main/Gripper/PlanBV2)
+
+
 
 ## Modelo en RobotStudio
 
