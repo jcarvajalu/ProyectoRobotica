@@ -142,6 +142,8 @@ Al hacer el montaje en el cilindro se evidenció un error en la impresion del ad
 
 Adicionalmente se detectó un problema en el gripper, pues al ser el acabado superficial que deja el TPU en la pieza muy liso, los elementos tendían a resbalarse fácilmente. Para solucionar esto se propuso usar una lija de grano fino (lija 220) junto con cinta doble faz para que los elementos no se resbalaran de los dedos del gripper.
 
+En el siguente link se puede ver los planos de las piezas: [Planos](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/Planos.pdf)
+
 
 ## Modelo en RobotStudio
 En la primera fase del proceso, se procede a la carga de las geometrías de los objetos que serán manipulados en el entorno de Robot Studio. Este procedimiento incluye la importación de la representación geométrica de los objetos a ser movidos, así como la incorporación de la banda transportadora y el armario del cual se extraerán los mencionados objetos.
