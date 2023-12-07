@@ -66,7 +66,7 @@ Al usar el gripper prestado por el otro grupo las piezas fueron:
 
 Teniendo en cuenta que la solución planteada consistía en indicar incialmente, a través de la interfaz implementada en el flexpendant, la ubicación del objeto a tomar en la repisa, y luego indicar la posición en que se quería depositar el objeto en la banda transportadora, se plantea el siguiente diagrama de flujo de las acciones que realizó el robot.
 
-IMAGEN
+![Diagrama Flujo](https://github.com/jcarvajalu/ProyectoRobotica/assets/80609467/191a6618-c012-4257-aa5c-2247ca20e095)
 
 ## Interfaz
 
@@ -90,21 +90,21 @@ Una vez programadas las rutinas de ejecución para el correcto funcionamiento de
 
 ## Diseño del gripper
 
-Para el gripper se propuso un diseño el cual pudiera adaptar el cilindro de 3 dedos para ser usado como uno de dos para esto se creo la pieza de acople
+Para el gripper se propuso un diseño que se pudiera adaptar al cilindro de 3 dedos para ser usado como uno de dos, para esto se creó la pieza de acople.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/2553c860-753c-4268-b090-20b95e5c0bcf)
 
 [Acople](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/PlanBV2/acople.ipt)
 
-luego se pensaron en unos soportes que pudieran adaptarse a los dedos del gripper facilmente y pudieran atronillarse a los dedos del cilindro
+Luego, se pensaron en unos soportes que pudieran adaptarse a los dedos del gripper fácilmente y pudieran atronillarse a los dedos del cilindro.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9df9315d-730f-470d-b489-bd80770309bd)
 
 [Base gripper](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/PlanBV2/Basegripper.ipt)
 
-Estas pizas se hicieron para imprimirse en PLA par que tuvieran fortaleza y soportaran adecuadamente las cargas mecanicas.
+Estas pizas se hicieron para imprimirse en PLA para que tuvieran fortaleza y soportaran adecuadamente las cargas mecánicas.
 
-Por ultimo se hizo un diseño de un dedo adaptable el cual pudiera deformarce para lograr agarrar las diferentes geometrias propuestas.
+Por último se hizo un diseño de un dedo adaptable el cual pudiera deformarce para lograr agarrar las diferentes geometrias propuestas.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/2e5d4b36-d9c6-4200-9105-51ec5305b35e)
 
