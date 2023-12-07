@@ -2,9 +2,9 @@
 Proyecto robótica 2023-2s
 
 ## Integrantes del grupo
-* Giovanny Obregon
-* Nicolas Carvajal
-* Andres Hernandez
+* Giovanny Obregón
+* Nicolás Carvajal
+* Andrés Hernández
 * Juan Sebastian Daleman
 * Sara Cardona
 * Yuli Alpala
@@ -114,8 +114,8 @@ Por ultimo se hizo un diseño de un dedo adaptable el cual pudiera deformarce pa
 
 ## Modelo en RobotStudio
 
-## Codigo en Rapid
+## Código en Rapid
 
-## Comparacion de tiempo de alistamiento y operación
+## Comparación de tiempo de alistamiento y operación
 
 ## Video de presentación
