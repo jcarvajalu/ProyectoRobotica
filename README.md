@@ -104,23 +104,23 @@ Luego, se pensaron en unos soportes que pudieran adaptarse a los dedos del gripp
 
 Estas pizas se hicieron para imprimirse en PLA para que tuvieran fortaleza y soportaran adecuadamente las cargas mecánicas.
 
-Por último se hizo un diseño de un dedo adaptable el cual pudiera deformarce para lograr agarrar las diferentes geometrias propuestas.
+Por último, se hizo un diseño de un dedo adaptable el cual pudiera deformarse para lograr agarrar las diferentes geometrías propuestas.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/2e5d4b36-d9c6-4200-9105-51ec5305b35e)
 
 [Dedo gripper](https://github.com/jcarvajalu/ProyectoRobotica/tree/main/Gripper/PlanBV2)
 
-Esta pieza se penso para ser impresa en TPU  con el fin que fuera flexible y tubiera el soporte suficiente.
+Esta pieza se pensó para ser impresa en TPU con el fin que fuera flexible y tuviera el soporte suficiente.
 
-Por ultimo aca podemos ver el diseño montado en el cilindro en el modelo y los dedos impresos
+Finalmente, acá se puede ver el diseño montado en el cilindro en el modelo y los dedos impresos.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/00e3aecb-c5ff-467c-9b94-97d1e82f9d80)
 
 ![Imagen de WhatsApp 2023-12-06 a las 20 51 54_9dfbd0f4](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/219448d5-4aec-4dbe-9a07-8eafdb723621)
 
-Al hacer el montaje en el cilindro se tuvo un error en la impresion del adaptador por lo cual no fue posible implementar los dedos en el cilindro de 3 dedos, como una solucion se planteo el usar uno de los cilindros de dos dedos que estan en el laboratorio pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link). Por lo cual para terminar el desarrollo del proyecto se pidio un gripper prestado a otro grupo.
+Al hacer el montaje en el cilindro se evidenció un error en la impresion del adaptador, por esta razón no fue posible implementar los dedos en el cilindro de 3 dedos. En consecuencia, se planteó como solución usar uno de los cilindros de dos dedos que estaban en el laboratorio, pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link). Es así como para terminar el desarrollo del proyecto se pidió un gripper prestado a otro grupo.
 
-Adicionalmente se detecto un problema en el gripper al ser el acabado superficial que deja el TPU en la piesa muy liso los elementos se tienden a rebalar facilmente para solucionar esto se porpone usar una lija de grano fino (lija 220) junto a cinta doble faz para que los elementos no se resbalen de los dedos del gripper. 
+Adicionalmente se detectó un problema en el gripper, pues al ser el acabado superficial que deja el TPU en la pieza muy liso, los elementos tendían a resbalarse fácilmente. Para solucionar esto se propuso usar una lija de grano fino (lija 220) junto con cinta doble faz para que los elementos no se resbalaran de los dedos del gripper.
 
 ## Modelo en RobotStudio
 
