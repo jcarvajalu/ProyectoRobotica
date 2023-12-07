@@ -3,7 +3,7 @@ Proyecto robótica 2023-2s
 
 ## Integrantes del grupo
 * Giovanny Obregon
-* Nicolas Carbajal
+* Nicolas Carvajal
 * Andres Hernandez
 * Juan Sebastian Daleman
 * Sara Cardona
