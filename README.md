@@ -182,11 +182,15 @@ La función mov_offset se encarga de llevar a cabo aproximaciones, tomando como 
 
 ## Comparación de tiempo de alistamiento y operación
 
+En la comparación entre el tiempo que requiere una persona para llevar a cabo el agarre y posicionamiento de los objetos y el tiempo de las rutinas ejecutadas por el robot, se evidenció que en este caso la persona se demoró menos tiempo, sin embargo, se debe tener en cuenta que en la solución planteada el robot demoraba 5 segundos en la selección del producto y 5 segundos en la zona de alistamiento, además el robot volvía a home después de posicionar un objeto en la banda.
+
+Cabe resaltar que en un ámbito industrial la cantidad de objetos es bastante mayor y las estanterías se sitúan más alto. En consecuencia, la implementación de un robot que ejecute las rutinas resultaría en mayor productividad, pues este trabajo impactaría negativamente en la salud de los operarios si lo tienen que hacer de forma manual, lo que generaía un menor rendimiento.
+
+
 ## Video de presentación
 
 
 
 La simulación de robotStudio se puede ver en el siguiente video en baja calidad, si quiere verlo en una mayor calidad dirijase a este link https://drive.google.com/drive/folders/1rsiYHvFrMIB10ePP7CXYzUYBzl0OuGI7.
-
 
 [Simulacion en RobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/74c09434-fd29-4f74-bd98-2425a1764250)
