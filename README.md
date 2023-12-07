@@ -133,7 +133,10 @@ Finalmente, a continuación se pueden ver el diseño del modelo y los dedos impr
 Al hacer el montaje en el cilindro se evidenció un error en la impresion del adaptador, por esta razón no fue posible implementar los dedos en el cilindro de 3 dedos. En consecuencia, se planteó como solución usar uno de los cilindros de dos dedos que estaban en el laboratorio, pero al intentar accionarlo este cilindro no funcionaba correctamente [Prueba de error](https://drive.google.com/file/d/1k0lXSExx2qFFyQZFY9tKI-WzeHswhWyn/view?usp=drive_link) . Es así como para terminar el desarrollo del proyecto se pidió un gripper prestado a otro grupo.
 
 
-[Error en el cilindro de dos dedos](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ac96be3d-8c1f-44ab-82fa-3c198b3a7572)
+
+
+[Error de cilindro de dos dedos](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/454c9ccd-65c1-43b9-9ebc-0e9215a04871)
+
 
 
 
