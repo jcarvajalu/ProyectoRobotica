@@ -35,13 +35,15 @@ Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la 
 
 ![interfazRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/0383ae40-93fd-48fe-a38d-67d12c906f77)
 
-### Alistamiento del robot
+### Selección de prodcutos
 
-Para el alistamiento se contó la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y se ubicaron los objetos a manipular en ésta, como se muestran a continuación.
+Para la selección de los productos se contó con una repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y en la que se ubicaron los objetos a manipular, como se muestran a continuación.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/bf9c5e9e-a5d2-4b8e-ade9-5a2ccb729c2b)
 
 Así mismo se hizo una calibracion de la ubicación de la estantería con respto al robot para que el gripper pudiera alcanzar los objetos.
+
+### Zona de alistamiento
 
 ### Herramientas necesarias
 
