@@ -58,7 +58,7 @@ De las piezas utilizadas fueron:
 * Electroválvula 5/2
 
 Al usar el gripper prestado por el otro grupo las piezas fueron:
-* Grripper adaptable de otro grupo
+* Gripper adaptable de otro grupo
 * Cilindro de 2 dedos
 * Electroválvula 5/2
 
