@@ -31,19 +31,17 @@ Por lo tanto se planearon la diferentes trayectorias que el robot debería lleva
 
 ![ModeloRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/ee8c0696-da70-4ff4-8ec8-ab55996a6f39)
 
-Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repisa y definir su posición en la zona de alistamiento (Banda transportadora) donde se dispondra.
+Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la interfaz gráfica para usar en el flexpendant y poder obtener los objetos ubicados en la repisa y definir su posición en la zona de alistamiento (banda transportadora) donde se dispondra.
 
 ![interfazRobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/0383ae40-93fd-48fe-a38d-67d12c906f77)
 
 ### Selección de prodcutos
 
-Para la selección de los productos se contó con una repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y en la que se ubicaron los objetos a manipular, como se muestran a continuación.
+Para la parte de selección de los productos se contó con una repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y en la que se ubicaron los objetos a manipular, como se muestran a continuación.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/bf9c5e9e-a5d2-4b8e-ade9-5a2ccb729c2b)
 
 Así mismo se hizo una calibracion de la ubicación de la estantería con respto al robot para que el gripper pudiera alcanzar los objetos.
-
-### Zona de alistamiento
 
 ### Herramientas necesarias
 
