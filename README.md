@@ -38,11 +38,22 @@ Para poder manipular las posiciones de los objetos en donde estban en la repisa 
 
 ### Alistamiento del robot
 
-Para el alistamiento se tuvo a la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/) la cual se puso en el area de trabajo del robot
+Para el alistamiento se tuvo a la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/) la cual se puso en el area de trabajo del robot y se ubicaron los objetos a manipular en esta como se muestran a continuación.
+
+![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/bf9c5e9e-a5d2-4b8e-ade9-5a2ccb729c2b)
+
+Asi mismo se hizo una calibracion de la ubicación de la estanteria con respto al robot para que el gripper pudiera alcanzar los objetos.
 
 ### Herramientas necesarias
 
+Para alistar el gripper en el robot y su utilización se necesitaron:
+
+* Juego de llaves bristol para ajuste de tornillos.
+* Juego de destornilladores de estrella (Gripper pedido prestado de otro grupo).
+
 ### Piezas utilizada
+
+
 
 ## Diagrama de flujo de las acciones del robot
 
