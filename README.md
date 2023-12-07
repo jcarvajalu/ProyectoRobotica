@@ -37,7 +37,7 @@ Una vez se tuvieron las rutinas planeadas, se procedió con el desarrollo de la 
 
 ### Alistamiento del robot
 
-Para el alistamiento se tuvo la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y se ubicaron los objetos a manipular en ésta, como se muestran a continuación.
+Para el alistamiento se contó la repisa [BAGGEBO](https://www.ikea.com/co/es/p/baggebo-estanteria-metal-blanco-50481172/), la cual se situó en el área de trabajo del robot y se ubicaron los objetos a manipular en ésta, como se muestran a continuación.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/bf9c5e9e-a5d2-4b8e-ade9-5a2ccb729c2b)
 
@@ -68,7 +68,7 @@ Al usar el gripper prestado por el otro grupo las piezas fueron:
 
 ## Diagrama de flujo de las acciones del robot
 
-Teniendo en cuenta que la solución planteada consistía en indicar incialmente, a través de la interfaz implementada en el flexpendant, la ubicación del objeto a tomar en la repisa, y luego indicar la posición en que se quería depositar el objeto en la banda transportadora, se plantea el siguiente diagrama de flujo de las acciones que realizó el robot.
+Teniendo en cuenta que la solución planteada consistía en indicar incialmente, a través de la interfaz implementada en el flexpendant, la ubicación del objeto a tomar en la repisa, y luego indicar la posición en que se quería depositar el objeto en la banda transportadora, se planteó el siguiente diagrama de flujo de las acciones que realizó el robot.
 
 ![Diagrama Flujo](https://github.com/jcarvajalu/ProyectoRobotica/assets/80609467/191a6618-c012-4257-aa5c-2247ca20e095)
 
