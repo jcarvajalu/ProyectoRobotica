@@ -51,9 +51,20 @@ Para alistar el gripper en el robot y su utilización se necesitaron:
 * Juego de llaves bristol para ajuste de tornillos.
 * Juego de destornilladores de estrella (Gripper pedido prestado de otro grupo).
 
-### Piezas utilizada
+### Piezas utilizadas
 
+De las piezas utilizadas fueron:
+* 2 dedos de gripper
+* 2 Soportes de gripper
+* 1 Adaptador para usar el cilindro de 3 dedos como de 2
+* Cilindro de 3 dedos
+* Base de dapataacion para Robot ABB y cilindro de 3 dedos
+* Electro valvula 5/2
 
+Al usar el gripper prestado por el otro grupo las piezas fueron:
+* Grripper adaptable de otro grupo
+* Cilindro de 2 dedos
+* Electro valvula 5/2
 
 ## Diagrama de flujo de las acciones del robot
 
