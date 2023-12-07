@@ -188,6 +188,12 @@ En la comparación entre el tiempo que requiere una persona para llevar a cabo e
 
 Cabe resaltar que en un ámbito industrial la cantidad de objetos es bastante mayor y las estanterías se sitúan más alto. En consecuencia, la implementación de un robot que ejecute las rutinas resultaría en mayor productividad, pues este trabajo impactaría negativamente en la salud de los operarios si lo tienen que hacer de forma manual, lo que generaía un menor rendimiento.
 
+En el siguiente enlace se encuentra el video con los tiempos que requiere una persona para realizar estas operaciones ya descritas:
+
+https://drive.google.com/file/d/16F88L6AWLRP8eZ79AIGFzDYOq1SMPVl2/view?usp=sharing
+
+
+
 
 ## Video de presentación
 
@@ -196,3 +202,11 @@ Cabe resaltar que en un ámbito industrial la cantidad de objetos es bastante ma
 La simulación de robotStudio se puede ver en el siguiente video en baja calidad, si quiere verlo en una mayor calidad dirijase a este link https://drive.google.com/drive/folders/1rsiYHvFrMIB10ePP7CXYzUYBzl0OuGI7.
 
 [Simulacion en RobotStudio](https://github.com/jcarvajalu/ProyectoRobotica/assets/82681128/74c09434-fd29-4f74-bd98-2425a1764250)
+
+En el siguiente enlace se encuentra el video presentacion del proyecto donde se muestra la implementación del codigo y la ejecución del mismo, junto con explicaciones detalladas del uso de la interfaz grafica, simulacion y demás.
+
+https://drive.google.com/file/d/1Os9jHJsHlo4TioGitHLyIEitrfc0qajO/view?usp=sharing
+
+
+
+
