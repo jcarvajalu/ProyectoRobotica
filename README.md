@@ -108,7 +108,7 @@ Para el gripper se propuso un diseño que se pudiera adaptar al cilindro de 3 de
 
 [Acople](https://github.com/jcarvajalu/ProyectoRobotica/blob/main/Gripper/PlanBV2/acople.ipt)
 
-Luego, se pensaron en unos soportes que pudieran adaptarse a los dedos del gripper fácilmente y pudieran atronillarse a los dedos del cilindro.
+Luego, se pensaron unos soportes que pudieran adaptarse a los dedos del gripper fácilmente y pudieran atronillarse a los dedos del cilindro.
 
 ![image](https://github.com/jcarvajalu/ProyectoRobotica/assets/70998067/9df9315d-730f-470d-b489-bd80770309bd)
 
